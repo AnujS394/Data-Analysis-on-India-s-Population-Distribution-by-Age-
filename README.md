@@ -18,3 +18,10 @@ A concise, reproducible analysis of how India’s population is distributed acro
 
 ## 🗂️ Repository Structure
 
+anujs394-data-analysis-on-india-s-population-distribution-by-age-/
+│
+├── india's population distridution by age (1).ipynb # Main analysis notebook
+├── README.md # Project documentation
+└── data/ # (Optional) Dataset folder
+
+
